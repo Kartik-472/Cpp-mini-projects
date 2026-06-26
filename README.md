@@ -4,6 +4,7 @@ Projects:
 - Percentage Calculator
 - Number Guessing Game
 - Rock Paper Scissors
+- Students Manager (temp)
 
 Concepts used:
 - Functions
@@ -11,3 +12,5 @@ Concepts used:
 - Bubble Sort
 - Loops
 - Random Numbers
+- Vectors 
+- Classes
